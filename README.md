@@ -13,4 +13,4 @@ Information Geometry
 # coordinates and potentials
 http://ksknw.hatenablog.com/entry/2018/08/14/101535 を参考に作り直してみたものです。iOSならばCarnetsで動作させると便利です。jupyter notebookで動作します。ダウンロードしてからお楽しみください。
 
-[正規分布の座標間の関係とポテンシャル関数および測地線について](/infogeo01.ipynb)
+[正規分布の座標間の関係とポテンシャル関数および測地線について](./infogeo01.ipynb)
